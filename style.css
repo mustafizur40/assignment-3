@@ -23,7 +23,7 @@
   /* meat the team  */
   .bg-2{
     /* Set the background image */
-    background-image: url('images/banner1.png');
+    background-image: url('./images/banner1.png');
    background-size: cover;
     
    
